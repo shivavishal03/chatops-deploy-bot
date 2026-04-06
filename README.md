@@ -48,6 +48,6 @@ Kubernetes functionality is simulated due to instance limitations. Shell scripts
 
 ---
 
-vishal 🎯 Author
+## 🎯 Author
 
-Dhanwa
+Vishal
